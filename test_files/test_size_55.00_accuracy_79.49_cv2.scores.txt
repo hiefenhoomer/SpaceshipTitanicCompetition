@@ -1,0 +1,5 @@
+Test accuracy: 0.7948557089084065
+Test size: 55.00
+Best score: 0.8110464751384683
+Best model: RandomForestClassifier(max_depth=20, min_samples_split=10, n_estimators=300,
+                       n_jobs=-1, random_state=42)
